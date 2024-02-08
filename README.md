@@ -47,6 +47,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
