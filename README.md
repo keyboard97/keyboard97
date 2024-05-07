@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Adrián and I'm a Software Engineer, from Cuba</p>
+<p align="left">My name is Adrián and I'm a Software Engineer, from Cuba. Currently in Andorra</p>
 
 ###
 
